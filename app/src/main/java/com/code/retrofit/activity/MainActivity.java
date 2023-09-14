@@ -1,8 +1,10 @@
-package com.code.retrofit;
+package com.code.retrofit.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.code.retrofit.R;
 
 public class MainActivity extends AppCompatActivity {
 
